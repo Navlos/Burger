@@ -29,7 +29,7 @@
 
 @layer utilities {
     .home__title{
-        @apply text-3xl font-oswald font-bold uppercase lg:text-6xl
+        @apply text-x4l font-oswald font-bold uppercase lg:text-6xl
     }
  
     .separator{
