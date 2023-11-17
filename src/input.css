@@ -40,5 +40,9 @@
         @apply text-paragraphColor text-xs leading-5
     }
 
+    .card__title{
+        @apply text-xl font-oswald font-bold uppercase
+    }
+
 
 }
